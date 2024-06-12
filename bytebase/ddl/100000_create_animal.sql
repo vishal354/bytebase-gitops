@@ -7,4 +7,3 @@ CREATE TABLE Animals (
     Habitat VARCHAR(100)
 );
 
--- comment
