@@ -6,3 +6,5 @@ CREATE TABLE Animals (
     Gender CHAR(1),
     Habitat VARCHAR(100)
 );
+
+-- comment
