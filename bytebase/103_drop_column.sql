@@ -5,7 +5,7 @@ START TRANSACTION;
 
 -- Remove the Email column
 ALTER TABLE Students
-DROP COLUMN Email;
+DROP COLUMN Gender;
 
 -- Commit the transaction
 COMMIT;
