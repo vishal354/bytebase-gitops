@@ -6,4 +6,4 @@ CREATE TABLE Animals (
     Gender CHAR(1),
     Habitat VARCHAR(100)
 );
-
+-- Compare this snippet from bytebase/102_create_t2.sql:
