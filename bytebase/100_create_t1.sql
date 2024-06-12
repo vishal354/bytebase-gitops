@@ -6,4 +6,4 @@ CREATE TABLE Students (
     Gender CHAR(1),
     Email VARCHAR(100) UNIQUE,
     Major VARCHAR(100)
-);
+); 
